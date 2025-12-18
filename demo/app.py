@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 # ===============================
 # PARQUET_DIR = "/mnt/d/data/chunk_2"
 PARQUET_DIR = "demo/chunk_2"
-MAX_ROWS = 300_000
+MAX_ROWS = 150_000
 
 st.set_page_config(
     page_title="eCommerce Analytics Dashboard",
