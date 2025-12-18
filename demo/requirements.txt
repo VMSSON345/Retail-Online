@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pyarrow
+plotly
+mlxtend
+scikit-learn
+networkx
+pyvis
+matplotlib
