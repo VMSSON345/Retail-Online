@@ -13,7 +13,8 @@ import matplotlib.pyplot as plt
 # ===============================
 # CONFIG
 # ===============================
-PARQUET_DIR = "/mnt/d/data/chunk_2"
+# PARQUET_DIR = "/mnt/d/data/chunk_2"
+PARQUET_DIR = "demo/chunk_2"
 MAX_ROWS = 300_000
 
 st.set_page_config(
