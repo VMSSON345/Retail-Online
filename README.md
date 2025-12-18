@@ -8,8 +8,11 @@ The project demonstrates the application of data mining and analytics techniques
 ---
 # TEAM
 Vũ Minh Sơn
+
 Nguyễn Bá Quang
+
 Tạ Nguyên Thành
+
 ---
 ##  Live Demo
 **Streamlit App:**  
